@@ -69,8 +69,8 @@
 #define UE_DISABLE_INLINE_GEN_CPP 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2 0
-#define UE_PROJECT_NAME VRExpPluginExample
-#define UE_TARGET_NAME VRExpPluginExampleEditor
+#define UE_PROJECT_NAME GD3_P1_Violet
+#define UE_TARGET_NAME UnrealEditor
 #define WITH_ADVANCED_STEAM_SESSIONS 1
 #define UE_MODULE_NAME "AdvancedSteamSessions"
 #define UE_PLUGIN_NAME "AdvancedSteamSessions"
