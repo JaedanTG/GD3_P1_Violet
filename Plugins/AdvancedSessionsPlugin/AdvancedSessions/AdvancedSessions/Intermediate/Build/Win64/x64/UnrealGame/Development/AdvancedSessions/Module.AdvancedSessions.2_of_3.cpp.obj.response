@@ -1,6 +1,6 @@
-C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp
+D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp
 /I .
-/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private
+/I D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealGame\Inc\OnlineSubsystem\UHT
 /I ..\Plugins\Online\OnlineSubsystem\Source
 /I ..\Plugins\Online\OnlineSubsystem\Source\Public
@@ -116,24 +116,24 @@ C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\Adv
 /I Runtime\TypedElementFramework\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime\UHT
 /I Runtime\TypedElementRuntime\Public
-/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT
-/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
+/I D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT
+/I D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source
+/I D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Yu"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.obj"
-/sourceDependencies C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.dep.json
+/FI"D:\UnrealProjects\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Yu"D:\UnrealProjects\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"D:\UnrealProjects\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.obj"
+/sourceDependencies D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
