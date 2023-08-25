@@ -7,8 +7,8 @@
 #pragma once
 
 
-#include "D:/UnrealProjects/GD3_P1_Violet/Plugins/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h"
-#include "D:/UnrealProjects/GD3_P1_Violet/Plugins/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h"
-#include "D:/UnrealProjects/GD3_P1_Violet/Plugins/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h"
-#include "D:/UnrealProjects/GD3_P1_Violet/Plugins/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h"
+#include "../../../../../../../../Users/logan/Documents/GitHub/GD3_P1_Violet/Plugins/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h"
+#include "../../../../../../../../Users/logan/Documents/GitHub/GD3_P1_Violet/Plugins/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h"
+#include "../../../../../../../../Users/logan/Documents/GitHub/GD3_P1_Violet/Plugins/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h"
+#include "../../../../../../../../Users/logan/Documents/GitHub/GD3_P1_Violet/Plugins/AdvancedSessionsPlugin/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h"
 
