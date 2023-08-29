@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\UnrealProjects\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_VioletEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
-"D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
-/OUT:"D:\UnrealProjects\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
+"C:\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_VioletEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
