@@ -299,11 +299,11 @@ C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\Advanced
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
 /external:I ThirdParty\Steamworks\Steamv153\sdk\public
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
 /FI"C:\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_VioletEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
 /FI"C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
 /Yu"C:\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_VioletEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
