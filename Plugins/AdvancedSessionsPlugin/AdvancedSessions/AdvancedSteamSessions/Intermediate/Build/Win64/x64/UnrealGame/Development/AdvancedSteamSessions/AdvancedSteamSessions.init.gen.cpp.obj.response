@@ -1,6 +1,6 @@
-C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT\AdvancedSteamSessions.init.gen.cpp
+C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT\AdvancedSteamSessions.init.gen.cpp
 /I .
-/I C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
+/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealGame\Inc\OnlineSubsystem\UHT
 /I ..\Plugins\Online\OnlineSubsystem\Source
 /I ..\Plugins\Online\OnlineSubsystem\Source\Public
@@ -116,13 +116,13 @@ C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\Advanced
 /I Runtime\TypedElementFramework\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime\UHT
 /I Runtime\TypedElementRuntime\Public
-/I C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT
+/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source
-/I C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
-/I C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT
-/I C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source
-/I C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
+/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source
+/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
+/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT
+/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source
+/I C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealGame\Inc\OnlineSubsystemSteam\UHT
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Classes
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Public
@@ -132,17 +132,17 @@ C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\Advanced
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
 /external:I ThirdParty\Steamworks\Steamv153\sdk\public
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Yu"C:\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamSessions.init.gen.cpp.obj"
-/sourceDependencies C:\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamSessions.init.gen.cpp.dep.json
+/FI"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Yu"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Intermediate\Build\Win64\x64\GD3_P1_Violet\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamSessions.init.gen.cpp.obj"
+/sourceDependencies C:\Users\logan\Documents\GitHub\GD3_P1_Violet\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamSessions.init.gen.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
